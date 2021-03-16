@@ -11,7 +11,7 @@ steps {
 
 sh "rm -r -f ./Maven-Spring-App" 
 
-git url: 'git://github.com/rache/Maven-Spring-App.git', branch: 'master' 
+git url: 'git://github.com/rache/Maven-Spring-App.git', branch: 'main' 
 
 
 // To run Maven on a Windows agent, use 
